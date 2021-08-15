@@ -9,7 +9,7 @@ public class Forward {
 	}
 	public void setForward(boolean forward) {
 		this.forward = forward;
-	}
+	} 
 	public String getPath() {
 		return path;
 	}
