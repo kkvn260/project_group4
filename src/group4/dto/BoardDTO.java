@@ -8,6 +8,7 @@ public class BoardDTO {
 	private String content;
 	private String writedate;
 	private String board_name;
+	
 	public int getBoardno() {
 		return boardno;
 	}

@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body> 
 	<div> 
 		<%@ include file="header.jsp"%>
 	</div>
