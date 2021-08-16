@@ -26,7 +26,7 @@
 			<textarea rows="10" cols="30" placeholder="내용을 입력해주세요"></textarea>
 		</div>
 		<input type="submit" value="등록">
-		<input type="reset"	value="취소">
+		<input type="reset"	value="취소"> 
 	</form>
 </body>
 </html>
