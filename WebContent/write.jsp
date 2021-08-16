@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form method="post" action="">
+	<form method="post" action="<%=request.getContextPath() %>/write.do" enctype="multipart/form-data">
 		<div>
 			<h3>게시판 글쓰기</h3>
 		</div>
